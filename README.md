@@ -132,8 +132,8 @@ Without changing her original face, create a portrait of a beautiful young woman
 ### 1.5. One-Click Business Photo (Silicon Valley Style)
 *Transforms casual photos into professional studio headshots using specific lens and lighting instructions.*
 <p align="center">
-  <img width="300" src="https://github.com/user-attachments/assets/e41db56f-d928-400c-b21b-f8a0d53ba91b" alt="Original" />
-  <img width="385" src="https://github.com/user-attachments/assets/793ad242-7867-4709-bdc6-55021f5eb78f" alt="Generated" />
+  <img width="200" src="https://github.com/user-attachments/assets/e41db56f-d928-400c-b21b-f8a0d53ba91b" alt="Original" />
+  <img width="250" src="https://github.com/user-attachments/assets/793ad242-7867-4709-bdc6-55021f5eb78f" alt="Generated" />
 </p>
 
 **Prompt:**
@@ -145,8 +145,8 @@ Keep the facial features of the person in the uploaded image exactly consistent 
 ### 1.6. Emotional Film Photography
 *Creates a cinematic, nostalgic "Kodak Portra" look while maintaining facial consistency.*
 <p align="center">
-  <img width="300" src="https://github.com/user-attachments/assets/e41db56f-d928-400c-b21b-f8a0d53ba91b" alt="Original" />
-  <img width="385" src="https://github.com/user-attachments/assets/243d1b11-9ef0-4d4f-b308-97d67b5d3bc3" alt="Generated" />
+  <img width="200" src="https://github.com/user-attachments/assets/e41db56f-d928-400c-b21b-f8a0d53ba91b" alt="Original" />
+  <img width="250" src="https://github.com/user-attachments/assets/243d1b11-9ef0-4d4f-b308-97d67b5d3bc3" alt="Generated" />
 </p>
 
 **Prompt:**
@@ -163,7 +163,7 @@ Prompts focused on pushing the boundaries of composition, crowd generation, mini
 
 ### 2.1. Star Wars "Where's Waldo"
 *A complex prompt testing the model's ability to handle dense crowds and specific character recognition.*
-<img width="900" height="500" alt="Image" src="https://github.com/user-attachments/assets/439317c2-4be8-4b28-803f-36427ecca31e" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/439317c2-4be8-4b28-803f-36427ecca31e" />
 
 **Prompt:**
 ```text
@@ -195,7 +195,7 @@ recursive image of an orange cat sitting in an office chair holding up an iPad. 
 
 ### 2.4. Coordinate Visualization
 *Generates a specific location and time based purely on latitude/longitude coordinates.*
-<img width="2400" height="1792" alt="Image" src="https://github.com/user-attachments/assets/8629b88a-b872-43e2-a19e-855542702ac2" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/8629b88a-b872-43e2-a19e-855542702ac2" />
 
 **Prompt:**
 ```text
@@ -205,7 +205,7 @@ recursive image of an orange cat sitting in an office chair holding up an iPad. 
 
 ### 2.5. Conceptual Visualization
 *Interpretative rendering of how a specific group (engineers) visualizes a landmark.*
-<img width="2400" height="1792" alt="Image" src="https://github.com/user-attachments/assets/761380fe-0850-49e2-8589-797f10b7cb8d" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/761380fe-0850-49e2-8589-797f10b7cb8d" />
 
 **Prompt:**
 ```text
@@ -228,7 +228,7 @@ rare.jpg
 
 | Input References | Generated Output |
 | :--- | :--- |
-| <img width="100" src="https://replicate.delivery/pbxt/O61OKYNMCfhPTvuTf6SdRVwNlIpoKMeQPQw5WygFtvDwhWgh/guy.webp" /> <img width="100" src="https://replicate.delivery/pbxt/O61OK9ETMHHJO5m0qlCkGLhr5lcmbZ08U42C8PWLd4uszDQr/bob-ross.png" /> <br> <img width="100" src="https://replicate.delivery/pbxt/O61OKPSxpwgO83SLFGenwEcGNdEAirtw26cIfvuIxz8FeTvf/jennai.jpg" /> <img width="100" src="https://replicate.delivery/pbxt/O61OKGAI2lrcNy9I4tpUB4RPbsBUjcaxAjYjVlxRBHc2aIgK/01.webp" /> <br><img width="100" src="https://replicate.delivery/pbxt/O61S8cEIMPpMwEOkXnrroou1JkzoVFa0JJuhXHt05hBQ8AUq/replicate-prediction-50s6t1510hrma0ct2v5vj7jk2m.jpg" /> | <img width="2400" height="1792" alt="Image" src="https://github.com/user-attachments/assets/54e2a2eb-1ab4-4f2b-86a2-7a59856e615f" /> |
+| <img width="100" src="https://replicate.delivery/pbxt/O61OKYNMCfhPTvuTf6SdRVwNlIpoKMeQPQw5WygFtvDwhWgh/guy.webp" /> <img width="100" src="https://replicate.delivery/pbxt/O61OK9ETMHHJO5m0qlCkGLhr5lcmbZ08U42C8PWLd4uszDQr/bob-ross.png" /> <br> <img width="100" src="https://replicate.delivery/pbxt/O61OKPSxpwgO83SLFGenwEcGNdEAirtw26cIfvuIxz8FeTvf/jennai.jpg" /> <img width="100" src="https://replicate.delivery/pbxt/O61OKGAI2lrcNy9I4tpUB4RPbsBUjcaxAjYjVlxRBHc2aIgK/01.webp" /> <br><img width="100" src="https://replicate.delivery/pbxt/O61S8cEIMPpMwEOkXnrroou1JkzoVFa0JJuhXHt05hBQ8AUq/replicate-prediction-50s6t1510hrma0ct2v5vj7jk2m.jpg" /> | <img width="500" alt="Image" src="https://github.com/user-attachments/assets/54e2a2eb-1ab4-4f2b-86a2-7a59856e615f" /> |
 
 **Prompt:**
 ```text
@@ -252,7 +252,7 @@ Create a photo of vagabonds musashi praying drawn on a glass whiteboard in a sli
 
 ### 3.1. Concept Visualization (Text to Infographic)
 *Converts textual concepts into clear, educational vector illustrations.*
-<img width="1024" height="559" alt="Image" src="https://github.com/user-attachments/assets/bfaee21b-d6da-4345-9340-e786ce07dbed" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/bfaee21b-d6da-4345-9340-e786ce07dbed" />
 
 **Prompt:**
 ```text
@@ -268,9 +268,9 @@ Create an educational infographic explaining [Photosynthesis] . Visual Elements 
 ### 4.1. Virtual Model Try-On
 *Dresses a model in a specific garment while preserving fabric texture and lighting integration.*
 <p align="center">
-  <img width="200" src="https://github.com/user-attachments/assets/4ae658d3-4fdd-44c5-a1ab-9d44d04dd792" alt="Garment" />
-  <img width="200" src="https://github.com/user-attachments/assets/8710a21d-9fc3-4d9a-bcfe-cd5fb6999bfb" alt="Model" />
-  <img width="200" src="https://github.com/user-attachments/assets/81eaafb6-901b-424d-a197-dc1bc0bfc5bf" alt="Result" />
+  <img width="150" src="https://github.com/user-attachments/assets/4ae658d3-4fdd-44c5-a1ab-9d44d04dd792" alt="Garment" />
+  <img width="150" src="https://github.com/user-attachments/assets/8710a21d-9fc3-4d9a-bcfe-cd5fb6999bfb" alt="Model" />
+  <img width="150" src="https://github.com/user-attachments/assets/81eaafb6-901b-424d-a197-dc1bc0bfc5bf" alt="Result" />
 </p>
 
 **Prompt:**
@@ -281,7 +281,7 @@ Using Image 1 (the garment) and Image 2 (the model), create a hyper-realistic fu
 
 ### 4.2. Professional Product Photography
 *Isolates products from messy backgrounds and places them in a high-end commercial studio setting.*
-<img width="1270" height="670" alt="Image" src="https://github.com/user-attachments/assets/cdfd4934-d06a-48ee-bf28-58ce16c458c1" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/cdfd4934-d06a-48ee-bf28-58ce16c458c1" />
 
 **Prompt:**
 ```text
@@ -295,7 +295,7 @@ Identify the main product in the uploaded photo (automatically removing any hand
 
 ### 5.1. Hand-drawn Flowchart to Corporate Charts
 *Converts whiteboard sketches into clear, "McKinsey-style" vector presentations.*
-<img width="1252" height="702" alt="Image" src="https://github.com/user-attachments/assets/c59d3272-7525-4be0-94e3-8d642baaa659" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/c59d3272-7525-4be0-94e3-8d642baaa659" />
 
 **Prompt:**
 ```text
@@ -305,7 +305,7 @@ Convert this hand-drawn whiteboard sketch into a professional corporate flowchar
 
 ### 5.2. UI Hand-drawn Sketch to High-Fidelity Prototype
 *Transforms wireframe scribbles into realistic mobile app mockups.*
-<img width="1262" height="440" alt="Image" src="https://github.com/user-attachments/assets/67690896-22f8-4abc-8e89-d4779233a7ad" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/67690896-22f8-4abc-8e89-d4779233a7ad" />
 
 **Prompt:**
 ```text
@@ -329,7 +329,7 @@ Put this whole text, verbatim, into a photo of a glossy magazine article on a de
 
 ### 6.1. Composition Rescue (Smart Outpainting)
 *Expands image ratios (e.g., to 16:9) by intelligently generating matching scenery.*
-<img width="1268" height="452" alt="Image" src="https://github.com/user-attachments/assets/cc8c4e87-fe0f-4b8a-a610-a6d55ed0294c" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/cc8c4e87-fe0f-4b8a-a610-a6d55ed0294c" />
 
 **Prompt:**
 ```text
@@ -339,7 +339,7 @@ Zoom out and expand this image to a 16:9 aspect ratio (computer wallpaper size).
 
 ### 6.2. Smart Crowd Removal
 *Removes unwanted people from backgrounds and fills the space with logical textures.*
-<img width="1282" height="754" alt="Image" src="https://github.com/user-attachments/assets/bade2fb0-f7d8-4435-91d4-ad0b41819c9b" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/bade2fb0-f7d8-4435-91d4-ad0b41819c9b" />
 
 **Prompt:**
 ```text
@@ -354,8 +354,8 @@ Remove all the tourists/people in the background behind the main subject. Intell
 ### 7.1. Hard Furnishing Preview (Floor Plan to Design)
 *Generates a complete design presentation board including perspective views and 3D floor plans from a simple 2D map.*
 <p align="center">
-  <img width="500" src="https://github.com/user-attachments/assets/5f5e4629-3ebe-45c6-8b90-bd4c009d2585" alt="Floor Plan" />
-  <img width="500" src="https://github.com/user-attachments/assets/cf6d0304-60b6-4262-b4a1-08571f2c491e" alt="Design Board" />
+  <img width="400" src="https://github.com/user-attachments/assets/5f5e4629-3ebe-45c6-8b90-bd4c009d2585" alt="Floor Plan" />
+  <img width="400" src="https://github.com/user-attachments/assets/cf6d0304-60b6-4262-b4a1-08571f2c491e" alt="Design Board" />
 </p>
 
 **Prompt:**
@@ -375,8 +375,8 @@ Based on the uploaded 2D floor plan, generate a professional interior design pre
 ### 8.1. Viral Cover Image (Youtube/Douyin/TikTok)
 *Creates engaging thumbnails with text overlays, exaggerated expressions, and bright graphics.*
 <p align="center">
-  <img width="300" src="https://github.com/user-attachments/assets/f5c790f9-f0e2-4c4d-b274-bf4bcd1c4764" alt="Source" />
-  <img width="385" src="https://github.com/user-attachments/assets/21b0d56c-a2a5-463a-9a0e-84100e9d08d8" alt="Thumbnail" />
+  <img width="200" src="https://github.com/user-attachments/assets/f5c790f9-f0e2-4c4d-b274-bf4bcd1c4764" alt="Source" />
+  <img width="250" src="https://github.com/user-attachments/assets/21b0d56c-a2a5-463a-9a0e-84100e9d08d8" alt="Thumbnail" />
 </p>
 
 **Prompt:**
@@ -387,7 +387,7 @@ Design a viral video thumbnail using the person from Image 1. Face Consistency :
 
 ### 8.2. Commercial Promotional Poster
 *Designs professional sales posters with integrated text and high-quality product photography.*
-<img width="896" height="1200" alt="Image" src="https://github.com/user-attachments/assets/b65a064a-8519-4907-9497-90f00f9dba17" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/b65a064a-8519-4907-9497-90f00f9dba17" />
 
 **Prompt:**
 ```text
@@ -417,7 +417,7 @@ Translate the Chinese dish names on the wall menu into English for foreign touri
 
 ### 9.2. Digital Content Localization (Comics/Memes)
 *Translates comics or memes by scrubbing text bubbles and replacing content with matching fonts.*
-<img width="1080" height="461" alt="Image" src="https://github.com/user-attachments/assets/2cb58cf3-c05f-45d0-9f04-67fd7ba00267" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/2cb58cf3-c05f-45d0-9f04-67fd7ba00267" />
 
 **Prompt:**
 ```text
@@ -432,8 +432,8 @@ Translate the text in the speech bubbles/captions from [Japanese/English] to [Ch
 ### 10.1. 3D Blind Box Style Avatar
 *Converts portraits into cute, C4D-style "Pop Mart" toy characters.*
 <p align="center">
-  <img width="300" src="https://github.com/user-attachments/assets/c6c03353-f00a-4042-ba74-726b46c67541" alt="Original" />
-  <img width="385" src="https://github.com/user-attachments/assets/da445a7e-cf15-44be-ad18-d66b8fb78ae8" alt="Blind Box" />
+  <img width="200" src="https://github.com/user-attachments/assets/c6c03353-f00a-4042-ba74-726b46c67541" alt="Original" />
+  <img width="250" src="https://github.com/user-attachments/assets/da445a7e-cf15-44be-ad18-d66b8fb78ae8" alt="Blind Box" />
 </p>
 
 **Prompt:**
