@@ -8,9 +8,21 @@
 
 This repository focuses on **high-fidelity image prompts** sourced from X (Twitter), WeChat, Replicate, and top prompt engineers. Whether you are looking for **photorealistic portraits**, **stylized aesthetics**, or complex creative experiments, you will find the most effective inputs here to unlock the full potential of the model. 
 
-### Try the prompts with actual Nano Banana Pro here 👉 [https://nanobananaprompts.com](https://www.nanobananaproprompts.com/)
-
 Consider subscribing to [this free newsletter](https://zerolu.substack.com/p/hello-there) or follow me on [X](https://x.com/zerolu_eth) if you want more high quality content like this.
+
+### Sponsor: [Use these Prompts easily with NanoBanana Pro using AyeCreate AI](http://ayecreate.ai/?utm=zerolu)
+
+
+[<img width="600" height="350" alt="image" src="https://imagedelivery.net/Lg_Fsk69F1sokFEJMOOo3A/46c2752c-0ee8-483a-bb20-25823edbef00/public" />](http://ayecreate.ai/?utm=zerolu)
+
+##### How to use these Prompts with NanoBanana Pro using AyeCreate AI
+1. Go to [AyeCreate AI](http://ayecreate.ai/?utm=zerolu) and Login with your Google Account
+2. Go to [Artbench](https://ayecreate.ai/artbench/new?utm=zerolu)
+3. Select `Gemini3 NanoBanana Pro` and use the prompts from this repo to generate images
+
+[<img width="600" height="350" alt="image" src="https://imagedelivery.net/Lg_Fsk69F1sokFEJMOOo3A/9e75ff8e-3899-4a82-5116-0071d414f400/public" />](http://ayecreate.ai/?utm=zerolu)
+
+-----------
 
 ### Sponsor: [Free Sora Watermark Remover(Now with batch processing)](https://thesorawatermarkremover.com)
 [<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/c3bc6143-b01d-46ab-a1cc-ea823ddd5a10" />](https://thesorawatermarkremover.com)
