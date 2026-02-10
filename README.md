@@ -1,4 +1,4 @@
-[Last updated on 2025.12.19: Added photo book style magazine covers, country island dioramas, novel scene posters, miniature swimming pools, Christmas ornaments, surreal wrinkle removal, isometric photography, wide angle edits, shop window cartoons, 3D LED displays, trans-dimensional liquid pours, fisheye portraits, IXUS aesthetic photos, and anime spotlights]
+[Last updated on 2026.2.10: Added photo book style magazine covers, country island dioramas, novel scene posters, miniature swimming pools, Christmas ornaments, surreal wrinkle removal, isometric photography, wide angle edits, shop window cartoons, 3D LED displays, trans-dimensional liquid pours, fisheye portraits, IXUS aesthetic photos, and anime spotlights]
 
 # Awesome Nano Banana Pro 🍌
 
@@ -9,22 +9,8 @@
 This repository focuses on **high-fidelity image prompts** sourced from X (Twitter), WeChat, Replicate, and top prompt engineers. Whether you are looking for **photorealistic portraits**, **stylized aesthetics**, or complex creative experiments, you will find the most effective inputs here to unlock the full potential of the model. 
 
 
-### Sponsor: [Use these Prompts easily with NanoBanana Pro using AyeCreate AI](http://ayecreate.ai/?utm=zerolu)
-
-
-[<img width="600" height="350" alt="image" src="https://imagedelivery.net/Lg_Fsk69F1sokFEJMOOo3A/46c2752c-0ee8-483a-bb20-25823edbef00/public" />](http://ayecreate.ai/?utm=zerolu)
-
-##### How to use these Prompts with NanoBanana Pro using AyeCreate AI
-1. Go to [AyeCreate AI](http://ayecreate.ai/?utm=zerolu) and Login with your Google Account
-2. Go to [Artbench](https://ayecreate.ai/artbench/new?utm=zerolu)
-3. Select `Gemini3 NanoBanana Pro` and use the prompts from this repo to generate images
-
-[<img width="600" height="350" alt="image" src="https://imagedelivery.net/Lg_Fsk69F1sokFEJMOOo3A/9e75ff8e-3899-4a82-5116-0071d414f400/public" />](http://ayecreate.ai/?utm=zerolu)
-
------------
-
-### Sponsor: [Free Sora Watermark Remover(Now with batch processing)](https://thesorawatermarkremover.com)
-[<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/c3bc6143-b01d-46ab-a1cc-ea823ddd5a10" />](https://thesorawatermarkremover.com)
+### Sponsor: [Free Sora Watermark Remover(Remove Sora logo under 3 seconds, up to 5 batch tasks)](https://thesorawatermarkremover.com)
+[<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/5a8fdc04-aeef-4ca8-9fda-4de3a6ca6109" />](https://thesorawatermarkremover.com)[<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/7d29fbb9-dfe3-421b-bee4-d29f253dfcaa" />](https://thesorawatermarkremover.com)
 
 This repo gets up to **20,000 visitors per day**, [mail me](mailto:iamzerolu@gmail.com) if you want a limited sponsor slot!
 
